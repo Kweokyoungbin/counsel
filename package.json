@@ -1,0 +1,12 @@
+{
+  "name": "chinguya-jim",
+  "version": "3.0.0",
+  "private": true,
+  "description": "친구야, 짐을 나누자 - Gemini AI 상담 및 Supabase 사용자별 상태 저장 기반",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
